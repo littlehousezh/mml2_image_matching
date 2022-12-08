@@ -34,11 +34,13 @@ Details:
 
 - README.md: overall introduction and information of the project
 
-- MML2-EDA.ipynb: Python coding notebook for exploratory data analysis on photos
+- MML2_EDA.ipynb: Python coding notebook for exploratory data analysis on photos
 
-- MML2-Baseline.ipynb Python coding notebook for only implementing LoFTR
+- MML2_Baseline.ipynb Python coding notebook for only implementing LoFTR
 
-- MML2-Ensemble_Models.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
+- MML2_Ensemble_Models.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
+
+- MML2_Presentation_Slides Slides for final presentation
 
 Explanation:
 

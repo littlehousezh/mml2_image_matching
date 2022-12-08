@@ -40,7 +40,7 @@ Details:
 
 - MML2_Ensemble_Models.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
 
-- MML2_Presentation_Slides Slides for final presentation
+- MML2_Presentation_Slides.pdf Slides for final presentation
 
 Explanation:
 

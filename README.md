@@ -38,7 +38,7 @@ Details:
 
 - MML2-Baseline.ipynb Python coding notebook for only implementing LoFTR
 
-- MML2-Ensemble.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
+- MML2-Ensemble_Models.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
 
 Explanation:
 

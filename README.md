@@ -36,7 +36,7 @@ Details:
 
 - MML2_EDA.ipynb: Python coding notebook for exploratory data analysis on photos
 
-- MML2_Baseline.ipynb Python coding notebook for only implementing LoFTR
+- LoFTR: Folder for implementing LoFTR and DBSCAN
 
 - MML2_Ensemble_Models.ipynb Python coding notebook for assembling models: LoFTR, SuperGlue, DKM and visualize the result.
 
